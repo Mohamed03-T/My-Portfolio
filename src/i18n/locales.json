@@ -1,0 +1,606 @@
+{
+  "en": {
+    "translation": {
+      "nav": {
+        "home": "Home",
+        "about": "About",
+        "projects": "Projects",
+        "experience": "Journey",
+        "skills": "Skills",
+        "contact": "Contact",
+        "select_language": "Language"
+      },
+      "hero": {
+        "name": "Mohamed TOUTI",
+        "title": "Software Engineer & Full-Stack Developer",
+        "subtitle": "I build complete software systems — Web, Mobile, Desktop and SaaS platforms, with focus on automation, architecture, and scalable solutions.",
+        "cta1": "Start Project",
+        "cta2": "View Work",
+        "cta3": "Download CV"
+      },
+      "about": {
+        "title": "About Me",
+        "description": "I believe software is not just about code; it's about solving real-world problems through elegant architecture.",
+        "location": "Boumerdes, Algeria",
+        "badge": "Full Stack Developer",
+        "quote": "I don't just build websites, I build complete software systems.",
+        "stats": {
+          "projects": "+10 Major Projects",
+          "platforms": "Multi-Platform Expert",
+          "specialization": "SaaS Expert",
+          "role": "Full Stack Developer"
+        }
+      },
+      "projects": {
+        "title": "Selected Projects",
+        "subtitle": "A showcase of robust systems and software applications I've built.",
+        "highlight": "Most of these projects were built as end-to-end systems.",
+        "categories": {
+          "all": "All",
+          "saas": "SaaS",
+          "web": "Web Apps",
+          "mobile": "Mobile Apps",
+          "desktop": "Desktop"
+        },
+        "details": {
+          "description": "Overview",
+          "problem": "Problem Solved",
+          "role": "My Role",
+          "learned": "Key Takeaways",
+          "tech": "Stack Used",
+          "technologies": "Technologies",
+          "viewProject": "View Case Study",
+          "webLink": "Visit Web",
+          "github": "Source Code"
+        },
+        "list": {
+          "transly": {
+            "title": "Transly",
+            "description": "Translation management SaaS platform for freelancers and agencies to manage clients, projects, files, and workflows in one system.",
+            "problem": "Freelance translators often struggle with manual project tracking and client management.",
+            "role": "Full Stack Architect - Built the web platform, desktop companion, and cloud infrastructure.",
+            "learned": "Mastered SaaS multitenancy, secure file handling, and desktop-web synchronization.",
+            "tech_stack": "Next.js, Electron, SQLite, PostgreSQL, Prisma, NextAuth",
+            "link": "https://transly.medevcodes.me/"
+          },
+          "ssm": {
+            "title": "SSM Delivery",
+            "description": "Dynamic tracking and management system for real-time delivery operations.",
+            "problem": "Inefficient city-to-city parcel delivery without reliable tracking or price negotiation.",
+            "role": "Lead Developer - Developed mobile apps, real-time chat, and location tracking systems.",
+            "learned": "Implemented low-latency socket communication and complex map integrations.",
+            "tech_stack": "Flutter, Node.js, MySQL, Socket.io, Maps API"
+          },
+          "library": {
+            "title": "CST Library",
+            "description": "An optimized book management and publishing ecosystem for academic institutions.",
+            "problem": "Manual library systems lack moderation and digital accessibility for students.",
+            "role": "Full Stack Developer - Built the content moderation engine and student portal.",
+            "learned": "Deep dive into role-based access control and high-performance database indexing.",
+            "tech_stack": "Java EE, MySQL, HTML, CSS, JavaScript"
+          },
+          "carrental": {
+            "title": "DriveEase",
+            "description": "Modern car rental management platform with seamless booking and CRM integration.",
+            "problem": "Agencies needed an offline-first system to manage fleets and client data safely.",
+            "role": "Desktop Developer - Designed the UI and local-first data architecture.",
+            "learned": "Optimized local database performance and secure native file exports.",
+            "tech_stack": "Flutter, SQLite, PDF Generation"
+          },
+          "remindme": {
+            "title": "MedRemind",
+            "description": "Smart cross-platform medication tracking system with high-priority reminders.",
+            "problem": "Patients missing critical medication doses due to lack of specialized scheduling tools.",
+            "role": "Mobile Developer - Built the notification engine and offline schedule logic.",
+            "learned": "Handled complex mobile scheduling and background task management.",
+            "tech_stack": "Flutter, Firebase, Local Notifications"
+          },
+          "motivme": {
+            "title": "MotivMe",
+            "description": "Personalized motivational audio content for athletes during workouts.",
+            "problem": "Athletes need continuous, hands-free motivation without navigating complex menus.",
+            "role": "Mobile Developer - Implemented efficient background audio playback.",
+            "learned": "Optimized battery consumption for long-running background tasks.",
+            "tech_stack": "Flutter, Audio Service"
+          },
+          "deliveryadmin": {
+            "title": "Delivery Admin Panel",
+            "description": "Comprehensive admin tools and conversion-focused landing pages.",
+            "problem": "Administrators needed a bird's eye view of platform metrics and easy controls.",
+            "role": "Frontend Developer - Created data-dense administrative interfaces.",
+            "learned": "Designed high-converting landing pages and complex data visualization.",
+            "tech_stack": "React, Tailwind CSS, Chart.js"
+          },
+          "translydesktop": {
+            "title": "Transly Desktop",
+            "description": "Desktop companion app for the Transly SaaS platform for local file processing.",
+            "problem": "Translators needed offline access and secure local processing capabilities.",
+            "role": "Full Stack Developer - Bridged web and native desktop APIs.",
+            "learned": "Managed cross-platform file system security and local state caching.",
+            "tech_stack": "Electron, React, SQLite"
+          }
+        }
+      },
+      "experience": {
+        "title": "Development Journey",
+        "subtitle": "Tracing my growth from local desktop tools to worldwide SaaS platforms and AI integration.",
+        "stats": {
+          "projects": "Projects",
+          "tech": "Tech Stack",
+          "platforms": "Platforms",
+          "yes": "Yes",
+          "automation": "Automation"
+        },
+        "items": {
+          "2021": {
+            "title": "Programming Foundations",
+            "description": "Started with Java. Built Windows desktop apps and mastered algorithms."
+          },
+          "2022": {
+            "title": "Web & Desktop Development",
+            "description": "Mastered Web/Desktop: React, Angular, Python, and CSS/JS."
+          },
+          "2023": {
+            "title": "Mobile Development & Databases",
+            "description": "Expanded into Mobile with Flutter & Firebase. Mastered SQL and NoSQL."
+          },
+          "2024": {
+            "title": "Full Stack & API Architecture",
+            "description": "Focused on SaaS architecture, API design, and Vercel automation."
+          },
+          "2025": {
+            "title": "SaaS Architecture & Cloud Systems",
+            "description": "Adopting Docker, Prisma, Next.js, and advanced UI/UX."
+          },
+          "2026": {
+            "title": "AI, Automation & Enterprise Systems",
+            "description": "Exploring AI, NLP, and ERP systems for next-gen software."
+          }
+        }
+      },
+      "skills": {
+        "title": "Technical Stack",
+        "subtitle": "I use a wide range of technologies to build systems.",
+        "groups": {
+          "web": "Web Development",
+          "mobile": "Mobile Development",
+          "desktop": "Desktop Apps",
+          "backend": "Backend & APIs",
+          "database": "Databases",
+          "ai": "AI & Automation",
+          "tools": "Engineering Tools",
+          "uiux": "UI/UX"
+        }
+      },
+      "contact": {
+        "title": "Let's Work Together",
+        "subtitle": "I'm always open to discussing new projects, freelance work, or collaboration opportunities.",
+        "pitch": "I build complete software systems including Web, Mobile, Desktop and SaaS platforms. If you have an idea or a project, I can help you turn it into a real product.",
+        "form": {
+          "name": "Name",
+          "email": "Email",
+          "message": "Message",
+          "send": "Send Message",
+          "success": "Message sent successfully!",
+          "error": "Something went wrong. Please try again.",
+          "cooldown": "Please wait a minute before sending another message."
+        },
+        "info": {
+          "email": "Email",
+          "linkedin": "LinkedIn",
+          "github": "GitHub",
+          "location": "Location",
+          "whatsapp": "WhatsApp"
+        }
+      },
+      "footer": {
+        "name": "Mohamed TOUTI",
+        "role": "Software Engineer & Full Stack Developer",
+        "description": "SaaS Builder | Web | Mobile | Desktop | Automation",
+        "rights": "© 2026 All rights reserved"
+      }
+    }
+  },
+  "ar": {
+    "translation": {
+      "nav": {
+        "home": "الرئيسية",
+        "about": "عني",
+        "projects": "مشاريعي",
+        "experience": "رحلتي",
+        "skills": "مهاراتي",
+        "contact": "اتصل بي",
+        "select_language": "اللغة"
+      },
+      "hero": {
+        "name": "محمد توتي",
+        "title": "مهندس برمجيات ومطور Full-Stack",
+        "subtitle": "أقوم ببناء أنظمة برمجية متكاملة — منصات الويب، تطبيقات الجوال، الديسكتوب والـ SaaS، مع التركيز على الأتمتة والمعمارية والحلول القابلة للتوسع.",
+        "cta1": "ابدأ مشروعك",
+        "cta2": "رؤية أعمالي",
+        "cta3": "تحميل الـ CV"
+      },
+      "about": {
+        "title": "من أنا",
+        "description": "أؤمن أن التفاصيل هي ما يصنع الفرق. أسعى دائما لتطوير حلول برمجية مبتكرة.",
+        "location": "بومرداس، الجزائر",
+        "badge": "مطور Full Stack متميز",
+        "quote": "أنا لا أبني مجرد مواقع، أنا أبني أنظمة برمجية متكاملة.",
+        "stats": {
+          "projects": "+10 مشاريع كبرى",
+          "platforms": "خبير منصات متعددة",
+          "specialization": "خبير SaaS وأتمتة",
+          "role": "مطور Full Stack"
+        }
+      },
+      "projects": {
+        "title": "مشاريع مختارة",
+        "subtitle": "معرض للأنظمة والتطبيقات البرمجية القوية.",
+        "highlight": "معظم مشاريعي عبارة عن أنظمة متكاملة.",
+        "categories": {
+          "all": "الكل",
+          "saas": "SaaS",
+          "web": "منصات الويب",
+          "mobile": "تطبيقات الجوال",
+          "desktop": "تطبيقات الحاسوب"
+        },        "details": {
+          "description": "الوصف",
+          "problem": "المشكلة التي تم حلها",
+          "role": "دوري",
+          "learned": "الدروس المستفادة",
+          "tech": "التقنيات المستخدمة",
+          "technologies": "التقنيات",
+          "viewProject": "عرض دراسة الحالة",
+          "webLink": "زيارة الموقع",
+          "github": "الكود المصدري"
+        },        "list": {
+          "transly": {
+            "title": "Transly",
+            "description": "منصة SaaS لإدارة الترجمة للمستقلين والوكالات لإدارة العملاء والمشاريع والملفات وسير العمل في نظام واحد.",
+            "problem": "صعوبة إدارة المشاريع والعملاء يدوياً للمترجمين المستقلين.",
+            "role": "مهندس حلول - قمت ببناء منصة الويب، تطبيق الديسكتوب، والبنية السحابية.",
+            "learned": "إتقان أنظمة SaaS متعددة المستخدمين ومزامنة الويب مع الديسكتوب.",
+            "tech_stack": "Next.js, Electron, SQLite, PostgreSQL, Prisma, NextAuth",
+            "link": "https://transly.medevcodes.me/"
+          },
+          "ssm": {
+            "title": "SSM Delivery",
+            "description": "نظام تتبع وإدارة لعمليات التوصيل وربط المسافرين بالمرسلين.",
+            "problem": "عدم وجود نظام موثوق لتتبع الطرود والتفاوض على الأسعار بين المدن.",
+            "role": "المطور الرئيسي - قمت بتطوير تطبيقات الموبايل ونظام التتبع المباشر والدردشة.",
+            "learned": "التعامل مع التواصل الفوري (Sockets) ودمج الخرائط المعقدة.",
+            "tech_stack": "Flutter, Node.js, MySQL, Socket.io, Maps API"
+          },
+          "library": {
+            "title": "مكتبة CST",
+            "description": "نظام فعال لإدارة الكتب والنشر للمؤسسات الأكاديمية.",
+            "problem": "الأنظمة اليدوية تفتقر للتحكم في المحتوى وسهولة الوصول للطلاب.",
+            "role": "مطور Full Stack - قمت ببناء محرك مراجعة المحتوى وبوابة الطلاب.",
+            "learned": "التحكم المتقدم في الأدوار (RBAC) وتحسين أداء قواعد البيانات.",
+            "tech_stack": "Java EE, MySQL, HTML, CSS, JavaScript"
+          },
+          "carrental": {
+            "title": "DriveEase",
+            "description": "منصة حديثة لإدارة تأجير السيارات مع نظام CRM مدمج.",
+            "problem": "تحتاج الوكالات لنظام يعمل بدون إنترنت لإدارة الأسطول وبيانات العملاء.",
+            "role": "مطور تطبيقات - صممت واجهة المستخدم وهيكلة البيانات المحلية.",
+            "learned": "تحسين أداء قواعد البيانات المحلية وتصدير التقارير الآمنة.",
+            "tech_stack": "Flutter, SQLite, PDF Generation"
+          },
+          "remindme": {
+            "title": "MedRemind",
+            "description": "نظام ذكي للتنبيه بمواعيد الأدوية يعمل على جميع المنصات.",
+            "problem": "نسيان المرضى المواعيد الحرجة للدواء لعدم وجود أدوات تنبيه متخصصة.",
+            "role": "مطور موبايل - قمت ببناء محرك التنبيهات ومنطق الجدولة دون إنترنت.",
+            "learned": "إستخدام الإشعارات المتقدمة وإدارة المهام في الخلفية للموبايل.",
+            "tech_stack": "Flutter, Firebase, Local Notifications"
+          },
+          "motivme": {
+            "title": "MotivMe",
+            "description": "تطبيق محتوى صوتي تحفيزي مخصص للرياضيين أثناء التمرين.",
+            "problem": "صعوبة التنقل في التطبيقات أثناء التمرين والحاجة لتحفيز مستمر.",
+            "role": "مطور موبايل - قمت ببرمجة نظام تشغيل الصوت في الخلفية بكفاءة.",
+            "learned": "تحسين إستهلاك البطارية أثناء تشغيل الوسائط لفترات طويلة.",
+            "tech_stack": "Flutter, Audio Service"
+          },
+          "deliveryadmin": {
+            "title": "لوحة تحكم التوصيل",
+            "description": "أدوات إدارية شاملة وصفحات هبوط مخصصة لزيادة التحويل.",
+            "problem": "حاجة المديرين لرؤية شاملة للمؤشرات والتحكم في المنصات.",
+            "role": "مطور واجهات - قمت ببناء واجهات إدارية كثيفة البيانات.",
+            "learned": "تصميم هويات بصرية جذابة ولوحات بيانات مرنة.",
+            "tech_stack": "React, Tailwind CSS, Chart.js"
+          },
+          "translydesktop": {
+            "title": "Transly Desktop",
+            "description": "تطبيق ديسكتوب مرافق لمنصة Transly لمعالجة الملفات محلياً.",
+            "problem": "حاجة المترجمين لمعالجة الملفات بشكل آمن ودون الحاجة لإنترنت دائم.",
+            "role": "مطور Full Stack - ربط واجهات الويب مع ميزات الديسكتوب الأصلية.",
+            "learned": "التعامل مع ملفات النظام وتأمين البيانات المخزنة محلياً.",
+            "tech_stack": "Electron, React, SQLite"
+          }
+        }
+      },
+      "experience": {
+        "title": "رحلة التطور",
+        "subtitle": "تتبع لرحلة نموي من البرامج المكتبية المحلية إلى منصات SaaS العالمية والذكاء الاصطناعي.",
+        "stats": {
+          "projects": "المشاريع",
+          "tech": "التقنيات",
+          "platforms": "المنصات",
+          "yes": "نعم",
+          "automation": "الأتمتة"
+        },
+        "items": {
+          "2021": {
+            "title": "أساسيات البرمجة",
+            "description": "بدأت الرحلة مع لغة Java وبناء تطبيقات Windows وإتقان الخوارزميات."
+          },
+          "2022": {
+            "title": "تطوير الويب والديسكتوب",
+            "description": "إتقان تطوير الويب والديسكتوب باستخدام React و Angular و Python."
+          },
+          "2023": {
+            "title": "تطبيقات الموبايل وقواعد البيانات",
+            "description": "التوسع في تطبيقات الموبايل باستخدام Flutter و Firebase وقواعد البيانات."
+          },
+          "2024": {
+            "title": "تطوير الـ Full Stack والمعماريات",
+            "description": "التركيز على هندسة SaaS وتصميم APIs والأتمتة باستخدام GitHub و Vercel."
+          },
+          "2025": {
+            "title": "أنظمة السحاب ومعمارية SaaS",
+            "description": "اعتماد Docker و Prisma و Next.js وأنماط UI/UX المتقدمة."
+          },
+          "2026": {
+            "title": "الذكاء الاصطناعي والأنظمة المؤسساتية",
+            "description": "استكشاف AI و NLP وأنظمة CRM و ERP لبناء الجيل القادم."
+          }
+        }
+      },
+      "skills": {
+        "title": "الترسانة التقنية",
+        "subtitle": "أستخدم مجموعة واسعة من التقنيات لبناء أنظمة برمجية متكاملة.",
+        "groups": {
+          "web": "تطوير الويب",
+          "mobile": "تطبيقات الجوال",
+          "desktop": "تطبيقات الحاسوب",
+          "backend": "الخلفية",
+          "database": "قواعد البيانات",
+          "ai": "الذكاء الاصطناعي",
+          "tools": "أدوات الهندسة",
+          "uiux": "تصميم UI / UX"
+        }
+      },
+      "contact": {
+        "title": "لنعمل معا",
+        "subtitle": "أنا منفتح دائما على مناقشة المشاريع الجديدة، العمل الحر، أو فرص التعاون.",
+        "pitch": "أقوم ببناء أنظمة برمجية كاملة بما في ذلك منصات الويب والموبايل والديسكتوب والـ SaaS. إذا كان لديك فكرة أو مشروع، يمكنني مساعدتك في تحويله إلى منتج حقيقي.",
+        "form": {
+          "name": "الاسم",
+          "email": "البريد الإلكتروني",
+          "message": "الرسالة",
+          "send": "إرسال الرسالة",
+          "success": "تم إرسال الرسالة بنجاح!",
+          "error": "حدث خطأ ما. يرحى المحاولة مرة أخرى.",
+          "cooldown": "يرجى الانتظار دقيقة قبل إرسال رسالة أخرى."
+        },
+        "info": {
+          "email": "البريد الإلكتروني",
+          "linkedin": "لينكد إن",
+          "github": "جيت هاب",
+          "location": "الموقع",
+          "whatsapp": "واتساب"
+        }
+      },
+      "footer": {
+        "name": "محمد توتي",
+        "role": "مهندس برمجيات ومطور Full Stack",
+        "description": "بناء SaaS | ويب | موبايل | ديسكتوب | أتمتة",
+        "rights": "© 2026 جميع الحقوق محفوظة"
+      }
+    }
+  },
+  "fr": {
+    "translation": {
+      "nav": {
+        "home": "Accueil",
+        "about": "À Propos",
+        "projects": "Projets",
+        "experience": "Parcours",
+        "skills": "Compétences",
+        "contact": "Contact",
+        "select_language": "Langue"
+      },
+      "hero": {
+        "name": "Mohamed TOUTI",
+        "title": "Ingénieur Logiciel & Développeur Full-Stack",
+        "subtitle": "Je construis des systèmes logiciels complets — Web, Mobile, Desktop et plateformes SaaS, avec un accent sur l'automatisation, l'architecture et les solutions évolutives.",
+        "cta1": "Démarrer un Projet",
+        "cta2": "Voir les Travaux",
+        "cta3": "Télécharger CV"
+      },
+      "about": {
+        "title": "À Propos",
+        "description": "Je crois que le logiciel n'est pas seulement du code ; il s'agit de résoudre des problèmes réels par une architecture élégante.",
+        "location": "Boumerdes, Algérie",
+        "badge": "Développeur Full Stack",
+        "quote": "Je ne construis pas que des sites, je construis des systèmes complets.",
+        "stats": {
+          "projects": "+10 Projets Majeurs",
+          "platforms": "Expert Multi-Plateforme",
+          "specialization": "Expert SaaS",
+          "role": "Développeur Full Stack"
+        }
+      },
+      "projects": {
+        "title": "Projets Sélectionnés",
+        "subtitle": "Une vitrine de systèmes robustes et d'applications logicielles que j'ai construits.",
+        "highlight": "La plupart de ces projets ont été conçus comme des systèmes complets.",
+        "categories": {
+          "all": "Tous",
+          "saas": "SaaS",
+          "web": "Apps Web",
+          "mobile": "Apps Mobiles",
+          "desktop": "Desktop"
+        },
+        "details": {
+          "description": "Aperçu",
+          "problem": "Problème Résolu",
+          "role": "Mon Rôle",
+          "learned": "Principaux Acquis",
+          "tech": "Stack Utilisée",
+          "technologies": "Technologies",
+          "viewProject": "Voir l'étude de cas",
+          "webLink": "Visiter le Web",
+          "github": "Code Source"
+        },
+        "list": {
+          "transly": {
+            "title": "Transly",
+            "description": "Plateforme SaaS de gestion de traduction pour indépendants et agences afin de gérer clients, projets, fichiers et flux de travail.",
+            "problem": "Les traducteurs indépendants ont souvent du mal avec le suivi manuel des projets et la gestion des clients.",
+            "role": "Architecte Full Stack - Construction de la plateforme web, de l'application desktop et de l'infrastructure cloud.",
+            "learned": "Maîtrise du multitenancy SaaS, de la gestion sécurisée des fichiers et de la synchronisation desktop-web.",
+            "tech_stack": "Next.js, Electron, SQLite, PostgreSQL, Prisma, NextAuth",
+            "link": "https://transly.medevcodes.me/"
+          },
+          "ssm": {
+            "title": "SSM Delivery",
+            "description": "Système dynamique de suivi et de gestion pour les opérations de livraison en temps réel.",
+            "problem": "Livraison de colis de ville à ville inefficace sans suivi fiable ni négociation de prix.",
+            "role": "Développeur Principal - Développement d'applications mobiles, chat en temps réel et systèmes de suivi de localisation.",
+            "learned": "Mise en œuvre de communications par socket à faible latence et intégrations cartographiques complexes.",
+            "tech_stack": "Flutter, Node.js, MySQL, Socket.io, Maps API"
+          },
+          "library": {
+            "title": "CST Library",
+            "description": "Un écosystème optimisé de gestion de livres et d'édition pour les institutions académiques.",
+            "problem": "Les systèmes de bibliothèque manuels manquent de modération et d'accessibilité numérique pour les étudiants.",
+            "role": "Développeur Full Stack - Construction du moteur de modération de contenu et du portail étudiant.",
+            "learned": "Plongée profonde dans le contrôle d'accès basé sur les rôles et l'indexation de base de données haute performance.",
+            "tech_stack": "Java EE, MySQL, HTML, CSS, JavaScript"
+          },
+          "carrental": {
+            "title": "DriveEase",
+            "description": "Plateforme moderne de gestion de location de voitures avec réservation transparente et intégration CRM.",
+            "problem": "Les agences avaient besoin d'un système offline-first pour gérer les flottes et les données clients en toute sécurité.",
+            "role": "Développeur Desktop - Conception de l'interface utilisateur et de l'architecture de données locale.",
+            "learned": "Optimisation des performances de la base de données locale et exportations de fichiers natifs sécurisés.",
+            "tech_stack": "Flutter, SQLite, PDF Generation"
+          },
+          "remindme": {
+            "title": "MedRemind",
+            "description": "Système intelligent de suivi des médicaments multi-plateforme avec rappels prioritaires.",
+            "problem": "Les patients manquent des doses de médicaments critiques par manque d'outils de planification spécialisés.",
+            "role": "Développeur Mobile - Construction du moteur de notification et de la logique de planification hors ligne.",
+            "learned": "Gestion de la planification mobile complexe et des tâches en arrière-plan.",
+            "tech_stack": "Flutter, Firebase, Local Notifications"
+          },
+          "motivme": {
+            "title": "MotivMe",
+            "description": "Contenu audio de motivation personnalisé pour les athlètes pendant les entraînements.",
+            "problem": "Les athlètes ont besoin d'une motivation continue et mains libres sans naviguer dans des menus complexes.",
+            "role": "Développeur Mobile - Mise en œuvre d'une lecture audio efficace en arrière-plan.",
+            "learned": "Optimisation de la consommation de la batterie pour les tâches d'arrière-plan de longue durée.",
+            "tech_stack": "Flutter, Audio Service"
+          },
+          "deliveryadmin": {
+            "title": "Delivery Admin Panel",
+            "description": "Outils d'administration complets et pages de destination axées sur la conversion.",
+            "problem": "Les administrateurs avaient besoin d'une vue d'ensemble des métriques de la plateforme et de contrôles faciles.",
+            "role": "Développeur Frontend - Création d'interfaces administratives denses en données.",
+            "learned": "Conception de pages de destination à fort taux de conversion et visualisation de données complexes.",
+            "tech_stack": "React, Tailwind CSS, Chart.js"
+          },
+          "translydesktop": {
+            "title": "Transly Desktop",
+            "description": "Application desktop compagnon pour la plateforme Transly SaaS pour le traitement local des fichiers.",
+            "problem": "Les traducteurs avaient besoin d'un accès hors ligne et de capacités de traitement local sécurisées.",
+            "role": "Développeur Full Stack - Liaison entre le web et les API desktop natives.",
+            "learned": "Gestion de la sécurité du système de fichiers multi-plateforme et du cache d'état local.",
+            "tech_stack": "Electron, React, SQLite"
+          }
+        }
+      },
+      "experience": {
+        "title": "Mon Parcours",
+        "subtitle": "Retracer ma croissance des outils desktop aux plateformes SaaS mondiales et à l'intégration de l'IA.",
+        "stats": {
+          "projects": "Projets",
+          "tech": "Stack Tech",
+          "platforms": "Plateformes",
+          "yes": "Oui",
+          "automation": "Automation"
+        },
+        "items": {
+          "2021": {
+            "title": "Bases de la Programmation",
+            "description": "Début avec Java. Création d'applis desktop Windows et maîtrise des algorithmes."
+          },
+          "2022": {
+            "title": "Développement Web & Desktop",
+            "description": "Maîtrise de React, Angular, Python et CSS/JS."
+          },
+          "2023": {
+            "title": "Développement Mobile & Bases de Données",
+            "description": "Expansion vers le Mobile avec Flutter & Firebase. Maîtrise du SQL et NoSQL."
+          },
+          "2024": {
+            "title": "Full Stack & Architecture API",
+            "description": "Focus sur l'architecture SaaS, le design d'API et l'automatisation."
+          },
+          "2025": {
+            "title": "Architecture SaaS & Systèmes Cloud",
+            "description": "Adoption de Docker, Prisma, Next.js et UI/UX avancée."
+          },
+          "2026": {
+            "title": "IA, Automatisation & Systèmes d'Entreprise",
+            "description": "Exploration de l'IA, du NLP et des systèmes ERP pour les logiciels de nouvelle génération."
+          }
+        }
+      },
+      "skills": {
+        "title": "Stack Technique",
+        "subtitle": "J'utilise une large gamme de technologies pour construire des systèmes.",
+        "groups": {
+          "web": "Développement Web",
+          "mobile": "Développement Mobile",
+          "desktop": "Apps Desktop",
+          "backend": "Backend & APIs",
+          "database": "Bases de données",
+          "ai": "IA & Automatisation",
+          "tools": "Outils d'Ingénierie",
+          "uiux": "UI/UX"
+        }
+      },
+      "contact": {
+        "title": "Travaillons Ensemble",
+        "subtitle": "Je suis toujours ouvert à la discussion de nouveaux projets, de travail en freelance ou d'opportunités de collaboration.",
+        "pitch": "Je construis des systèmes logiciels complets incluant le Web, le Mobile, le Desktop et les plateformes SaaS. Si vous avez une idée ou un projet, je peux vous aider à en faire un produit réel.",
+        "form": {
+          "name": "Nom",
+          "email": "Email",
+          "message": "Message",
+          "send": "Envoyer le Message",
+          "success": "Message envoyé avec succès !",
+          "cooldown": "Veuillez patienter une minute avant d'envoyer un autre message.",
+          "error": "Une erreur est survenue. Veuillez réessayer."
+        },
+        "info": {
+          "email": "Email",
+          "linkedin": "LinkedIn",
+          "github": "GitHub",
+          "location": "Localisation",
+          "whatsapp": "WhatsApp"
+        }
+      },
+      "footer": {
+        "name": "Mohamed TOUTI",
+        "role": "Ingénieur Logiciel & Développeur Full Stack",
+        "description": "Constructeur SaaS | Web | Mobile | Desktop | Automatisation",
+        "rights": "© 2026 Tous droits réservés"
+      }
+    }
+  }
+}
