@@ -7,28 +7,10 @@ export default function Experience() {
 
   const timelineData = [
     {
-      year: "2026",
-      icon: <Cpu size={20} />,
-      title: t("experience.items.2026.title"),
-      description: t("experience.items.2026.description")
-    },
-    {
-      year: "2025",
-      icon: <Rocket size={20} />,
-      title: t("experience.items.2025.title"),
-      description: t("experience.items.2025.description")
-    },
-    {
-      year: "2024",
-      icon: <Briefcase size={20} />,
-      title: t("experience.items.2024.title"),
-      description: t("experience.items.2024.description")
-    },
-    {
-      year: "2023",
-      icon: <Globe size={20} />,
-      title: t("experience.items.2023.title"),
-      description: t("experience.items.2023.description")
+      year: "2021",
+      icon: <Code size={20} />,
+      title: t("experience.items.2021.title"),
+      description: t("experience.items.2021.description")
     },
     {
       year: "2022",
@@ -37,10 +19,28 @@ export default function Experience() {
       description: t("experience.items.2022.description")
     },
     {
-      year: "2021",
-      icon: <Code size={20} />,
-      title: t("experience.items.2021.title"),
-      description: t("experience.items.2021.description")
+      year: "2023",
+      icon: <Globe size={20} />,
+      title: t("experience.items.2023.title"),
+      description: t("experience.items.2023.description")
+    },
+    {
+      year: "2024",
+      icon: <Briefcase size={20} />,
+      title: t("experience.items.2024.title"),
+      description: t("experience.items.2024.description")
+    },
+    {
+      year: "2025",
+      icon: <Rocket size={20} />,
+      title: t("experience.items.2025.title"),
+      description: t("experience.items.2025.description")
+    },
+    {
+      year: "2026",
+      icon: <Cpu size={20} />,
+      title: t("experience.items.2026.title"),
+      description: t("experience.items.2026.description")
     }
   ];
 

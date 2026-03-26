@@ -101,7 +101,7 @@ export default function Hero() {
         <div className="flex-1 h-[400px] md:h-[600px] w-full cursor-grab active:cursor-grabbing order-last md:order-none relative">
           {/* Overlay to block touch on mobile */}
           <div className="absolute inset-0 z-20 md:hidden" />
-          <Canvas className="pointer-events-none md:pointer-events-auto">
+          <Canvas className="hidden md:block pointer-events-none md:pointer-events-auto">
             <ambientLight intensity={1.5} />
             <directionalLight position={[10, 10, 10]} intensity={3} />
             <directionalLight position={[-10, 10, -10]} intensity={2} />
