@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
+import { Analytics } from '@vercel/analytics/react';
 import './i18n/i18n';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
@@ -30,6 +31,7 @@ function App() {
         <Contact />
       </main>
       <Footer />
+      <Analytics />
     </div>
   );
 }
