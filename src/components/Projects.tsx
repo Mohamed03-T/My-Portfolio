@@ -45,6 +45,7 @@ const ALL_PROJECTS: Project[] = [
     category: "mobile",
     localeKey: "remindme",
     image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=600&h=400",
+    githubLink: "https://github.com/Mohamed03-T/MedRemind",
   },
   {
     id: "motivme",

@@ -93,7 +93,7 @@
             "problem": "Patients missing critical medication doses due to lack of specialized scheduling tools.",
             "role": "Mobile Developer - Built the notification engine and offline schedule logic.",
             "learned": "Handled complex mobile scheduling and background task management.",
-            "tech_stack": "Flutter, Firebase, Local Notifications"
+            "tech_stack": "Flutter, Provider, Sqflite, Local Notifications, Shared Preferences"
           },
           "motivme": {
             "title": "MotivMe",
@@ -293,7 +293,7 @@
             "problem": "نسيان المرضى المواعيد الحرجة للدواء لعدم وجود أدوات تنبيه متخصصة.",
             "role": "مطور موبايل - قمت ببناء محرك التنبيهات ومنطق الجدولة دون إنترنت.",
             "learned": "إستخدام الإشعارات المتقدمة وإدارة المهام في الخلفية للموبايل.",
-            "tech_stack": "Flutter, Firebase, Local Notifications"
+            "tech_stack": "Flutter, Provider, Sqflite, Local Notifications, Shared Preferences"
           },
           "motivme": {
             "title": "MotivMe",
@@ -495,7 +495,7 @@
             "problem": "Les patients manquent des doses de médicaments critiques par manque d'outils de planification spécialisés.",
             "role": "Développeur Mobile - Construction du moteur de notification et de la logique de planification hors ligne.",
             "learned": "Gestion de la planification mobile complexe et des tâches en arrière-plan.",
-            "tech_stack": "Flutter, Firebase, Local Notifications"
+            "tech_stack": "Flutter, Provider, Sqflite, Local Notifications, Shared Preferences"
           },
           "motivme": {
             "title": "MotivMe",
