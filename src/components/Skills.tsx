@@ -18,7 +18,7 @@ export default function Skills() {
     {
       id: "web",
       icon: <Monitor size={28} />,
-      skills: ["Next.js", "React", "TypeScript", "Java EE", "TailwindCSS", "Shadcn/UI", "Responsive Design"]
+      skills: ["Next.js", "React", "TypeScript", "Java EE", "TailwindCSS", "Shadcn/UI", "Responsive Design", "HTML", "CSS", "JavaScript"]
     },
     {
       id: "mobile",
