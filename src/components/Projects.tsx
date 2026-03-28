@@ -27,6 +27,7 @@ const ALL_PROJECTS: Project[] = [
     category: "mobile",
     localeKey: "ssm",
     image: "/ssm.jpg",
+    githubLink: "https://github.com/Mohamed03-T/Delivery_App",
   },
   {
     id: "library",
