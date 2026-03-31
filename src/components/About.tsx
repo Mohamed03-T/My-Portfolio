@@ -22,7 +22,7 @@ export default function About() {
                 {t("about.badge")}
               </div>
               <h2 className="text-4xl md:text-5xl font-bold leading-tight">{t("about.title")}</h2>
-              <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed max-w-2xl">
+              <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed max-w-2xl whitespace-pre-line">
                 {t("about.description")}
               </p>
             </div>

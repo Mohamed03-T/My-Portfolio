@@ -19,8 +19,8 @@
         "cta3": "Download CV"
       },
       "about": {
-        "title": "About Me",
-        "description": "I believe software is not just about code; it's about solving real-world problems through elegant architecture.",
+        "title": "Who I Am",
+        "description": "I am a Full-Stack Engineer who builds efficient, scalable, and user-centric digital products. My background in both technical development and business operations gives me a unique perspective on how software should solve real-world problems. \n\nWhat Drives My Work: \n\nEnd-to-End Ownership: I manage the entire product lifecycle, from initial system design and database architecture (MySQL, Prisma) to building responsive, dynamic interfaces (React, Next.js). \n\nAI-Driven Efficiency: I integrate AI tools and LLMs directly into my coding workflow, allowing me to build, test, and ship complex SaaS platforms faster without compromising on quality. \n\nProduct-Minded Engineering: I don't just look at the code; I look at the user experience. Whether it's a logistics tracking system or an office management platform, I build software that makes work easier.",
         "location": "Boumerdes, Algeria",
         "badge": "Full Stack Developer",
         "quote": "I don't just build websites, I build complete software systems.",
