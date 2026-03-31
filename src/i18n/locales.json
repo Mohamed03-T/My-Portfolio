@@ -222,7 +222,7 @@
       },
       "about": {
         "title": "من أنا",
-        "description": "أؤمن أن التفاصيل هي ما يصنع الفرق. أسعى دائما لتطوير حلول برمجية مبتكرة.",
+        "description": "أنا مهندس Full-Stack أقوم ببناء منتجات رقمية فعالة وقابلة للتوسع وتركز على المستخدم. خلفيتي في كل من التطوير التقني وإدارة العمليات تمنحني منظوراً فريداً حول كيفية حل البرمجيات لمشاكل العالم الحقيقي. \n\nما الذي يحفز عملي: \n\nالملكية الكاملة (End-to-End): أدير دورة حياة المنتج بالكامل، بدءاً من تصميم النظام وهيكلة قواعد البيانات (MySQL, Prisma) وصولاً إلى بناء واجهات ديناميكية واستجابة (React, Next.js). \n\nالكفاءة المدفوعة بالذكاء الاصطناعي: أدمج أدوات الذكاء الاصطناعي ونماذج اللغة الكبيرة (LLMs) مباشرة في سير عمل البرمجة الخاص بي، مما يسمح لي ببناء واختبار وإطلاق منصات SaaS المعقدة بشكل أسرع دون المساومة على الجودة. \n\nهندسة تركز على المنتج: لا أنظر فقط إلى الكود، بل أنظر إلى تجربة المستخدم. سواء كان نظام تتبع لوجستي أو منصة لإدارة المكاتب، فأنا أبني برمجيات تجعل العمل أسهل.",
         "location": "بومرداس، الجزائر",
         "badge": "مطور Full Stack متميز",
         "quote": "أنا لا أبني مجرد مواقع، أنا أبني أنظمة برمجية متكاملة.",
@@ -421,8 +421,8 @@
         "cta3": "Télécharger CV"
       },
       "about": {
-        "title": "À Propos",
-        "description": "Je crois que le logiciel n'est pas seulement du code ; il s'agit de résoudre des problèmes réels par une architecture élégante.",
+        "title": "Qui Je Suis",
+        "description": "Je suis un ingénieur Full-Stack qui construit des produits numériques efficaces, scalables et centrés sur l'utilisateur. Mon parcours en développement technique et en opérations commerciales me donne une perspective unique sur la manière dont les logiciels doivent résoudre les problèmes du monde réel. \n\nCe qui motive mon travail : \n\nPropriété de bout en bout : Je gère l'ensemble du cycle de vie du produit, de la conception initiale du système et de l'architecture de la base de données (MySQL, Prisma) à la création d'interfaces réactives et dynamiques (React, Next.js). \n\nEfficacité pilotée par l'IA : J'intègre des outils d'IA et des LLM directement dans mon flux de travail de codage, ce qui me permet de construire, tester et déployer des plateformes SaaS complexes plus rapidement sans compromis sur la qualité. \n\nIngénierie axée sur le produit : Je ne regarde pas seulement le code ; je regarde l'expérience utilisateur. Qu'il s'agisse d'un système de suivi logistique ou d'une plateforme de gestion de bureau, je construis des logiciels qui facilitent le travail.",
         "location": "Boumerdes, Algérie",
         "badge": "Développeur Full Stack",
         "quote": "Je ne construis pas que des sites, je construis des systèmes complets.",
