@@ -87,7 +87,7 @@ export default function Hero() {
             <a href="#projects" className="px-5 py-3 md:px-8 md:py-4 border border-black dark:border-white rounded-lg font-bold text-center text-sm md:text-lg transition-transform hover:scale-105 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black whitespace-nowrap">
               {t("hero.cta2")}
             </a>
-            <a href="/cv.pdf" download className="px-5 py-3 md:px-8 md:py-4 border border-black dark:border-white rounded-lg font-bold text-sm md:text-lg transition-transform hover:scale-105 flex items-center justify-center gap-2 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black whitespace-nowrap">
+            <a href="/MOHAMED TOUTI - Full-Stack Software Engineer.pdf" download className="px-5 py-3 md:px-8 md:py-4 border border-black dark:border-white rounded-lg font-bold text-sm md:text-lg transition-transform hover:scale-105 flex items-center justify-center gap-2 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black whitespace-nowrap">
               <FileDown className="w-4 h-4 md:w-5 md:h-5" />
               {t("hero.cta3")}
             </a>
