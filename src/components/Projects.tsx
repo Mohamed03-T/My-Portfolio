@@ -10,11 +10,20 @@ interface Project {
   category: Category;
   localeKey: string;
   image: string;
+  imageFit?: "cover" | "contain";
   webLink?: string;
   githubLink?: string;
 }
 
 const ALL_PROJECTS: Project[] = [
+  {
+    id: "saarha",
+    category: "saas",
+    localeKey: "saarha",
+    image: "/saarha.png",
+    imageFit: "contain",
+    webLink: "https://www.saarha.com",
+  },
   {
     id: "transly",
     category: "saas",
@@ -131,9 +140,15 @@ export default function Projects() {
                 key={project.id}
                 className="bg-gray-50 dark:bg-[#111] border border-black/10 dark:border-white/10 rounded-2xl overflow-hidden hover:shadow-xl transition-shadow group flex flex-col h-full cursor-pointer relative"
               >
-                <div className="h-48 overflow-hidden relative">
-                  <div className="absolute inset-0 bg-black/20 group-hover:bg-transparent transition-colors z-10"></div>
-                  <img src={project.image} alt={t(`projects.list.${project.localeKey}.title`)} className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-700" />
+                <div className={`h-48 overflow-hidden relative ${project.imageFit === "contain" ? "bg-slate-900/90 dark:bg-zinc-900 flex items-center justify-center p-4" : ""}`}>
+                  <div className="absolute inset-0 bg-black/10 group-hover:bg-transparent transition-colors z-10"></div>
+                  <img
+                    src={project.image}
+                    alt={t(`projects.list.${project.localeKey}.title`)}
+                    className={`w-full h-full transform group-hover:scale-105 transition-transform duration-700 ${
+                      project.imageFit === "contain" ? "object-contain" : "object-cover"
+                    }`}
+                  />
                   <div className="absolute top-4 right-4 z-20">
                     <span className="bg-black/80 backdrop-blur text-white text-[10px] px-2 py-0.5 rounded-full uppercase tracking-wider font-bold shadow-lg">
                       {t(`projects.categories.${project.category}`)}
@@ -179,8 +194,14 @@ export default function Projects() {
                   <X className="w-6 h-6" />
                 </button>
 
-                <div className="w-full md:w-1/2 h-64 md:h-auto relative">
-                  <img src={selectedProject.image} alt="" className="w-full h-full object-cover" />
+                <div className={`w-full md:w-1/2 h-64 md:h-auto relative ${selectedProject.imageFit === "contain" ? "bg-slate-900/90 dark:bg-zinc-900 flex items-center justify-center p-6" : ""}`}>
+                  <img
+                    src={selectedProject.image}
+                    alt=""
+                    className={`w-full h-full ${
+                      selectedProject.imageFit === "contain" ? "object-contain" : "object-cover"
+                    }`}
+                  />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent md:hidden" />
                 </div>
 

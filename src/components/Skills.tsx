@@ -23,7 +23,7 @@ export default function Skills() {
     {
       id: "mobile",
       icon: <Smartphone size={28} />,
-      skills: ["Flutter"]
+      skills: ["Flutter", "Dart"]
     },
     {
       id: "desktop",
@@ -33,12 +33,12 @@ export default function Skills() {
     {
       id: "backend",
       icon: <Server size={28} />,
-      skills: ["Node.js", "Express", "NextAuth", "Prisma ORM", "REST APIs"]
+      skills: ["Spring Boot 3", "Java 21", "Node.js", "Express", "WebSockets", "Prisma ORM", "REST APIs"]
     },
     {
       id: "database",
       icon: <Database size={28} />,
-      skills: ["MySQL", "PostgreSQL", "SQLite", "Data Structuring"]
+      skills: ["MySQL", "Redis", "PostgreSQL", "SQLite", "Data Structuring"]
     },
     {
       id: "ai",

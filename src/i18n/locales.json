@@ -54,6 +54,15 @@
           "github": "Source Code"
         },
         "list": {
+          "saarha": {
+            "title": "Saarha (سعّرها)",
+            "description": "Algeria's premier fee-free classifieds & marketplace ecosystem — an enterprise multi-platform system (Web, Mobile, Admin Portal) covering Real Estate, Vehicles, Electronics, and Services with direct buyer-seller interactions.",
+            "problem": "Lack of direct transparent transactions, absence of automated trust & reliability verification systems, and missing multi-platform, multi-language solutions tailored for the Algerian market.",
+            "role": "Lead Full Stack Architect — Designed & engineered the entire infrastructure: Java 21 Virtual Threads Spring Boot 3 backend, React 18 + Vite frontend, Flutter mobile app, physically isolated admin backend with Flyway migrations, and WebSockets/STOMP real-time chat.",
+            "learned": "Mastered high-concurrency systems (k6 stress tested at 1500+ concurrent VUs), implemented an event-sourced Reliability & Trust Engine (0-100 score), database security isolation, and Redis multi-level caching.",
+            "tech_stack": "Spring Boot 3, Java 21 (Virtual Threads), React 18, Vite, TypeScript, Tailwind CSS, Flutter, MySQL 8, Redis, WebSockets, STOMP, Flyway, Cloudinary, JWT, Bucket4j, k6",
+            "link": "https://www.saarha.com"
+          },
           "transly": {
             "title": "Transly",
             "description": "Translation management SaaS platform for freelancers and agencies to manage clients, projects, files, and workflows in one system.",
@@ -254,6 +263,15 @@
           "webLink": "زيارة الموقع",
           "github": "الكود المصدري"
         },        "list": {
+          "saarha": {
+            "title": "سعّرها (Saarha)",
+            "description": "منصة الإعلانات والمبيعات المباشرة والشفافة الأولى في الجزائر — نظام ضخم متكامل (ويب، موبايل، ولوحة أدمن معزولة) يدعم العقارات، السيارات، الأجهزة والخدمات بدون عمولات مخفية.",
+            "problem": "صعوبة التواصل المباشر بين البائع والمشتري في الجزائر، وغياب أنظمة ذكية لتقييم الموثوقية والسمعة بدون دفع إلكتروني مسبق، ونقص المنصات الحديثة المتعددة اللغات والمنصات.",
+            "role": "مهندس معماري ومطور Full Stack Lead — تصميم وتطوير الهيكلية الكاملة: سيرفر Spring Boot 3 مع Java 21 Virtual Threads، واجهة React 18 + Vite، تطبيق الموبايل Flutter، السيرفر الإداري المعزول أمنياً مع Flyway، ونظام المحادثة الفورية STOMP/WebSockets.",
+            "learned": "إتقان الهندسة البرمجية عالية الأداء والتوسع: اختبار الضغط بنجاح لـ 1500+ مستخدم متزامن (k6 VUs)، ابتكار نظام السمعة المبني على الأحداث (Reliability Score Engine 0-100)، عزل قواعد البيانات الإدارية، والتخزين المؤقت عبر Redis.",
+            "tech_stack": "Spring Boot 3, Java 21 (Virtual Threads), React 18, Vite, TypeScript, Tailwind CSS, Flutter, MySQL 8, Redis, WebSockets, STOMP, Flyway, Cloudinary, JWT, Bucket4j, k6",
+            "link": "https://www.saarha.com"
+          },
           "transly": {
             "title": "Transly",
             "description": "منصة SaaS لإدارة الترجمة للمستقلين والوكالات لإدارة العملاء والمشاريع والملفات وسير العمل في نظام واحد.",
@@ -456,6 +474,15 @@
           "github": "Code Source"
         },
         "list": {
+          "saarha": {
+            "title": "Saarha (سعّرها)",
+            "description": "La première plateforme de petites annonces et marketplace en Algérie — un système multi-plateforme complet (Web, Mobile, Portail Admin) couvrant l'Immobilier, les Véhicules, l'Électronique et les Services.",
+            "problem": "Absence de transactions directes et transparentes, manque de systèmes automatisés d'évaluation de la réputation et absence de solutions multi-plateformes adaptées au marché algérien.",
+            "role": "Architecte Full Stack Principal — Conception et ingénierie globale : backend Spring Boot 3 avec Java 21 Virtual Threads, frontend React 18 + Vite, application mobile Flutter, serveur d'administration isolé avec Flyway et chat WebSocket STOMP.",
+            "learned": "Maîtrise des systèmes à haute concurrence (testé avec k6 à 1500+ VU simultanés), création d'un moteur de réputation basé sur les événements (Reliability Score), isolation sécurisée de la base de données et mise en cache Redis.",
+            "tech_stack": "Spring Boot 3, Java 21 (Virtual Threads), React 18, Vite, TypeScript, Tailwind CSS, Flutter, MySQL 8, Redis, WebSockets, STOMP, Flyway, Cloudinary, JWT, Bucket4j, k6",
+            "link": "https://www.saarha.com"
+          },
           "transly": {
             "title": "Transly",
             "description": "Plateforme SaaS de gestion de traduction pour indépendants et agences afin de gérer clients, projets, fichiers et flux de travail.",
